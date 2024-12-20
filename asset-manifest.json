@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marketlist/static/css/main.2aed1e38.css",
+    "main.js": "/marketlist/static/js/main.f5aa432f.js",
+    "static/js/453.785134cd.chunk.js": "/marketlist/static/js/453.785134cd.chunk.js",
+    "static/media/k.JPEG": "/marketlist/static/media/k.d70a33b6e16480968956.JPEG",
+    "index.html": "/marketlist/index.html",
+    "main.2aed1e38.css.map": "/marketlist/static/css/main.2aed1e38.css.map",
+    "main.f5aa432f.js.map": "/marketlist/static/js/main.f5aa432f.js.map",
+    "453.785134cd.chunk.js.map": "/marketlist/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aed1e38.css",
+    "static/js/main.f5aa432f.js"
+  ]
+}
